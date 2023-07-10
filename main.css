@@ -10,3 +10,9 @@ footer ul{
     padding: 0;
     justify-content: center;
 }
+nav ul{
+    display: flex;
+    list-style: none;
+    padding: 0;
+    justify-content: center;
+}
